@@ -6,3 +6,5 @@ openpyxl
 statsmodels
 scikit-learn
 jinja2
+matplotlib
+seaborn
